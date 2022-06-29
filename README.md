@@ -1,3 +1,8 @@
-# AI allpied to the game of Kalah
+# AI applied to the game of Kalah
 
-The game of Kalah is a zero-sum two-player game that falls under the mancala  family of board games
+The game of Kalah is a zero-sum two-player game that falls under the mancala  family of board games. The rules of the game were followed in the development of the game with three AI algorithms, Alpha-beta pruning, Monte Carlo Tree Search algorithm and reinforcement learning (PPO2).
+
+# Alpha-beta pruning
+
+
+
